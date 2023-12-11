@@ -2,7 +2,7 @@ first big project, wahoo!
 group project for class :  Software Development Lifecycles
 
 parts I worked on:
-winstate(),
+winstate()
 having proper music play anywhere
 pokemon noises
 game looping
